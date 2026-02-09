@@ -1,6 +1,6 @@
 # AI伴侣智能助手：Streamlit+DeepSeek 聊天机器人
 
-一个基于 Streamlit 构建的**AI虚拟伴侣聊天工具**，支持自定义伴侣昵称、性格，同时具备会话管理（新建/加载/删除历史聊天）、流式回复等功能，像微信聊天一样自然交互。（源详情操作https://www.bilibili.com/video/BV1sHU9BmEne?vd_source=18e33f0d0a92a2f2934a3da0b4272711的AI应用篇章）
+一个基于 Streamlit 构建的**AI虚拟伴侣聊天工具**，支持自定义伴侣昵称、性格，同时具备会话管理（新建/加载/删除历史聊天）、流式回复等功能，像微信聊天一样自然交互。（源详情操作https://www.bilibili.com/video/BV1sHU9BmEne?vd_source=18e33f0d0a92a2f2934a3da0b4272711 的AI应用篇章）
 
 
 ## 核心功能
