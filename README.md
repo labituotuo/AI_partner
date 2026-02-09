@@ -1,6 +1,6 @@
 # AI伴侣智能助手：Streamlit+DeepSeek 聊天机器人
 
-一个基于 Streamlit 构建的**AI虚拟伴侣聊天工具**，支持自定义伴侣昵称、性格，同时具备会话管理（新建/加载/删除历史聊天）、流式回复等功能，像微信聊天一样自然交互。
+一个基于 Streamlit 构建的**AI虚拟伴侣聊天工具**，支持自定义伴侣昵称、性格，同时具备会话管理（新建/加载/删除历史聊天）、流式回复等功能，像微信聊天一样自然交互。（操作）
 
 
 ## 核心功能
@@ -17,7 +17,11 @@
 - 环境：Python 3.8+
 
 
-## 快速使用
-1. 克隆仓库：
-   ```bash
-   git clone https://github.com/你的用户名/AI-Partner-Chatbot.git
+## 使用步骤
+- 下载包配置好环境后
+- 控制台输入streamlit run streamlit run .\AI_Partner.py就可以开始聊天了
+
+## 注意事项
+- 代码中的DEEPSEEK_API_KEY要自己购买对应的API接口才能用，可以自行配置
+  
+
